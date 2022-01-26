@@ -5,7 +5,9 @@ I'm Javier from Madrid, I've been learning programming at 42 Madrid for a while.
 
 ![Miliviu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miliviu&show_icons=true&theme=dark)
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miliviu&layout=compact&theme=dark)  
+
 
 [![Miliviu's 42 stats](https://badge42.herokuapp.com/api/stats/juhagon)](https://www.42madrid.com/en)
 
