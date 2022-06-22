@@ -2,6 +2,7 @@
 I'm Javier from Madrid, I've been learning programming at 42 Madrid for a while. From my experience I really enjoy the process of learning to program and overcome the frustration that programming brings. You can check out my twitter at: https://twitter.com/Miliviuwu
 
 - 🌱 I’m currently learning at [42 Madrid](https://www.42madrid.com/en)
+- 💫 Currently interested in learning BDD
 
 ![Miliviu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miliviu&show_icons=true&theme=dark)
 
